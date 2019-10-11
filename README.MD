@@ -34,4 +34,4 @@ chmod 777 /usr/local/bin/iterm2-*
         Instant: checked
 ```
 
-![如图](https://github.com/aikuyun/iterm2-zmodem/blob/master/imgs/1.gif)
+![如图](https://github.com/leizhu900516/iterm2-zmodem/blob/master/imgs/1.gif)
